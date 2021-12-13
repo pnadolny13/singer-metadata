@@ -1,0 +1,1 @@
+# Singer Metadata API
